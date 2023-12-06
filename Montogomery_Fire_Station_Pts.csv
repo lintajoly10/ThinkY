@@ -1,0 +1,41 @@
+﻿OBJECTID,CATEGORY,NAME,ADDRESS,CITY,ZIPCODE,PHONE,URL,DATA,POINT_X,POINT_Y,LATITUDE,LONGITUDE
+1,FIRE STATION,Station 21 - Kensington,12500 Viers Mill Rd,Rockville,20853,240-773-4721,http://www.montgomerycountymd.gov/mcfrs/,21,1286034.125,507953.4063,39.06138341,-77.09261975
+2,FIRE STATION,Station 23 - Rockville,121 Rollins Ave,Rockville,20852,240-773-4723,http://www.montgomerycountymd.gov/mcfrs/,23,1277424,507094.25,39.05899655,-77.12293851
+3,FIRE STATION,Station 18 - Kensington,12210 Georgia Ave,Wheaton,20902,240-773-4718,http://www.montgomerycountymd.gov/mcfrs/,18,1297946.772,506204.0021,39.05660581,-77.05066276
+4,FIRE STATION,Station  5 - Kensington,10620 Connecticut Ave,Kensington,20895,240-773-4705,http://www.montgomerycountymd.gov/mcfrs/,5,1290685.625,496523.5938,39.03001271,-77.07620465
+5,FIRE STATION,Station 12 - Hillandale,10617 New Hampshire Ave,Silver Spring,20903,240-773-4712,http://www.montgomerycountymd.gov/mcfrs/,12,1317084.375,496583.625,39.03020115,-76.98327529
+6,FIRE STATION,Station 16 - Silver Spring,111 E University Blvd,Silver Spring,20901,240-773-4716,http://www.montgomerycountymd.gov/mcfrs/,16,1310309.5,491902.8749,39.01735026,-77.00712309
+7,FIRE STATION,Station 30 - Cabin John,"9404 Falls Road
+",Potomac,20854,240-773-4730,http://www.montgomerycountymd.gov/mcfrs/,30,1249776.75,489356.7814,39.01015258,-77.22015153
+8,FIRE STATION,Station 19 - Silver Spring,1945 Seminary Rd,Silver Spring,20910,240-773-4719,http://www.montgomerycountymd.gov/mcfrs/,19,1300351.125,488887.6875,39.0090641,-77.04216759
+9,FIRE STATION,Station 22 - Germantown/Kingsview,18910 Germantown Rd,Germantown,20874,240-773-4722,http://www.montgomerycountymd.gov/mcfrs/,22,1231848.975,544637.5614,39.16179761,-77.28384819
+10,FIRE STATION,Station  2 - Takoma Park,7201 Carroll Ave,Takoma Park,20912,240-773-4702,http://www.montgomerycountymd.gov/mcfrs/,2,1310311.25,477424.7813,38.97759774,-77.00711296
+11,FIRE STATION,Station 26 - Bethesda,6700 Democracy Blvd,Bethesda,20817,240-773-4726,http://www.montgomerycountymd.gov/mcfrs/,26,1273227.11,493292.1501,39.02108405,-77.13764518
+12,FIRE STATION,Station  6 - Bethesda,6600 Wisconsin Ave,Bethesda,20815,240-773-4706,http://www.montgomerycountymd.gov/mcfrs/,6,1286425.75,477134.1251,38.9767644,-77.09113219
+13,FIRE STATION,Station R1 - Bethesda / Chevy Chase Rescue,5020 Battery La,Bethesda,20814,240-773-4741,http://www.montgomerycountymd.gov/mcfrs/,R1,1283093.5,482140.0625,38.99049951,-77.1028735
+14,FIRE STATION,Station 20 - Bethesda,9041 Old Georgetown Rd,Bethesda,20814,240-773-4720,http://www.montgomerycountymd.gov/mcfrs/,20,1281048.5,487098.0939,39.00410623,-77.11008938
+15,FIRE STATION,Station 33 - Rockville,11430 Falls Rd,Potomac,20854,240-773-4733,http://www.montgomerycountymd.gov/mcfrs/,33,1257320.375,501594.5626,39.04380052,-77.19369519
+16,FIRE STATION,Station 11 - Glen Echo,5920 Massachusetts Ave,Bethesda,20816,240-773-4711,http://www.montgomerycountymd.gov/mcfrs/,11,1277962.625,472096.875,38.96290656,-77.12087847
+17,FIRE STATION,Station  7 - Chevy Chase,8001 Connecticut Ave,Chevy Chase,20815,240-773-4707,http://www.montgomerycountymd.gov/mcfrs/,7,1290540.875,482205.1561,38.99069835,-77.07667187
+18,FIRE STATION,Station 15 - Burtonsville,13900 Old Columbia Pike,Burtonsville,20866,240-773-4715,http://www.montgomerycountymd.gov/mcfrs/,15,1326120.75,516579.2188,39.08509348,-76.95142777
+19,FIRE STATION,Station  8 - Gaithersburg,801 Russell Ave,Gaithersburg,20879,240-773-4708,http://www.montgomerycountymd.gov/mcfrs/,8,1252931.625,542144.0626,39.15510789,-77.2094751
+20,FIRE STATION,Station 28 - Gaithersburg,7272 Muncaster Mill Rd,Derwood,20855,240-773-4728,http://www.montgomerycountymd.gov/mcfrs/,28,1270662.125,539523.4374,39.14800774,-77.14693525
+21,FIRE STATION,Station 10 - Cabin John,"8001 River Road
+",Bethesda,20817,240-773-4710,http://www.montgomerycountymd.gov/mcfrs/,10,1265754.375,483757.4062,38.9948707,-77.16388723
+22,FIRE STATION,Station  4 - Sandy Spring,17921 Brooke Rd,Sandy Spring,20860,240-773-4704,http://www.montgomerycountymd.gov/mcfrs/,4,1304643.875,540374.875,39.15043439,-77.02711444
+23,FIRE STATION,Station  1 - Silver Spring,8110 Georgia Ave,Silver Spring,20910,240-773-4701,http://www.montgomerycountymd.gov/mcfrs/,1,1304640.401,482250.4039,38.99084458,-77.02706593
+24,FIRE STATION,Station 35 - Clarksburg,22610 Gateway Center Dr Suite 300,Clarksburg,20871,240-773-4735,http://www.montgomerycountymd.gov/mcfrs/,35,1232678.08,570426.7941,39.23261045,-77.28120433
+25,FIRE STATION,Station 34 - Germantown/Milestone,20633 Boland Farm Rd,Germantown,20876,240-773-4734,http://www.montgomerycountymd.gov/mcfrs/,34,1243101.642,556627.0032,39.19480486,-77.2442762
+26,FIRE STATION,Station 32 - Travilah,9615 Darnestown Rd,Rockville,20850,240-773-4732,http://www.montgomerycountymd.gov/mcfrs/,32,1256417.862,519888.6874,39.09402452,-77.19701184
+27,FIRE STATION,Station R2 - Wheaton Rescue,2400 Arcola Ave,Wheaton,20902,240-773-4742,http://www.montgomerycountymd.gov/mcfrs/,R2,1297682.971,502613.8448,39.04674802,-77.0515846
+28,FIRE STATION,Station 13 - Damascus,26334 Ridge Rd,Damascus,20872,240-773-4713,http://www.montgomerycountymd.gov/mcfrs/,13,1254282.75,590980.4374,39.28919871,-77.2050974
+29,FIRE STATION,Station  9 - Hyattstown,25801 Frederick Rd,Clarksburg,20871,240-773-4709,http://www.montgomerycountymd.gov/mcfrs/,9,1223262.25,587797.9375,39.28021873,-77.31465585
+30,FIRE STATION,Station 17 - Laytonsville,21400 Laytonsville Rd,Laytonsville,20882,240-773-4717,http://www.montgomerycountymd.gov/mcfrs/,17,1272168.25,561039.0624,39.20708716,-77.14174237
+31,FIRE STATION,Station 29 - Germantown,20001 Crystal Rock Dr,Germantown,20874,240-773-4729,http://www.montgomerycountymd.gov/mcfrs/,29,1237715.625,553106.9999,39.18509935,-77.26324424
+32,FIRE STATION,Station 14 - Upper Montgomery,19801 Beallsville Rd,Beallsville,20839,240-773-4714,http://www.montgomerycountymd.gov/mcfrs/,14,1195647.5,551480.9376,39.18020796,-77.41162908
+33,FIRE STATION,Station 40 - Sandy Spring,16911 Georgia Ave,Olney,20832,240-773-4740,http://www.montgomerycountymd.gov/mcfrs/,40,1292698.75,534410.6876,39.13404176,-77.06921915
+34,FIRE STATION,Station 31 - Rockville,12100 Darnestown Rd,North Potomac,20878,240-773-4731,http://www.montgomerycountymd.gov/mcfrs/,31,1241255,527978.0624,39.11613287,-77.25051444
+35,FIRE STATION,Station 25 - Kensington,14401 Connecticut Ave,Layhill,20906,240-773-4725,http://www.montgomerycountymd.gov/mcfrs/,25,1292723,519166.375,39.09218659,-77.06909298
+36,FIRE STATION,Station  3 - Rockville,380 Hungerford Dr,Rockville,20850,240-773-4703,http://www.montgomerycountymd.gov/mcfrs/,3,1269538.875,517530.6876,39.08761892,-77.15076782
+37,FIRE STATION,Station 24 - Hillandale,13216 New Hampshire Ave,Silver Spring,20904,240-773-4724,http://www.montgomerycountymd.gov/mcfrs/,24,1311411.5,512177.4063,39.07301766,-77.00324704
+38,FIRE STATION,Station 27 - Public Safety Training Academy,8751 Snouffer School Rd,Gaithersburg,20879,240-773-8200,http://www.montgomerycountymd.gov/mcfrs/,27,,,,
